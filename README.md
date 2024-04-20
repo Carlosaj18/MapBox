@@ -32,7 +32,7 @@
     <img src="https://user-images.githubusercontent.com/62365628/214876004-be858914-bb6b-4b6e-8c40-b49112ff0d30.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">MERN Stack Admin Dashboard </h3>
+  <h3 align="center">Interactive MapBox  </h3>
 
   <p align="center">
    Interactive MapBox with Next.js and Clusters
