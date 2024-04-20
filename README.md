@@ -122,23 +122,6 @@ npm run dev
 
 https://github.com/Carlosaj18/MapBox/assets/62365628/2ee92774-e751-4ba8-89bc-d618b88babcc
  
-### Data Model
-
-https://lucid.app/lucidchart/81ff5432-cc50-4c41-a7b8-7258fec1e630/view?page=0_0#
-
-![image](https://user-images.githubusercontent.com/62365628/225504686-ae57abec-ad89-466d-a167-71707c4f4dad.png)
-
-
-## Live Site 
-
-<p id="live-site"><p>
-
-<a href="https://chat-ai-frontend.onrender.com">![Live Site](https://res.cloudinary.com/dn1e07eul/image/upload/v1659389947/Readme%20Headers/inter-live-site_ngkqcf.png)</a>
-
-• **[Admin Dashboard](https://admin-frontend-1wzy.onrender.com/)** is a responsive web app can be viewed on any device.
-
-<br>
-
 <!-- CONTACT -->
 ## Contact
 
