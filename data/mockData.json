@@ -1,0 +1,2526 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 1,
+        "name": "Grand Canyon",
+        "country": "United States",
+        "city": "Arizona",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.1151, 36.1069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 2,
+        "name": "Mount Fuji",
+        "country": "Japan",
+        "city": "",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7274, 35.3606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 3,
+        "name": "Eiffel Tower",
+        "country": "France",
+        "city": "Paris",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.2945, 48.8584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 4,
+        "name": "Sydney Opera House",
+        "country": "Australia",
+        "city": "Sydney",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [151.2143, -33.8568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 5,
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "city": "",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.5450, -13.1631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 6,
+        "name": "Taj Mahal",
+        "country": "India",
+        "city": "Agra",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.0421, 27.1751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 7,
+        "name": "Niagara Falls",
+        "country": "Canada",
+        "city": "Ontario",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.0752, 43.0896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 8,
+        "name": "Great Wall of China",
+        "country": "China",
+        "city": "",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 40.4319]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 9,
+        "name": "Victoria Falls",
+        "country": "Zambia",
+        "city": "",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.8576, -17.9244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 10,
+        "name": "Statue of Liberty",
+        "country": "United States",
+        "city": "New York",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.0445, 40.6892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 11,
+        "name": "Petra",
+        "country": "Jordan",
+        "city": "",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.4428, 30.3285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 12,
+        "name": "Chichen Itza",
+        "country": "Mexico",
+        "city": "",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.5686, 20.6843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 13,
+        "name": "Colosseum",
+        "country": "Italy",
+        "city": "Rome",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4922, 41.8902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 14,
+        "name": "Uluru",
+        "country": "Australia",
+        "city": "",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.0369, -25.3444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 15,
+        "name": "Angkor Wat",
+        "country": "Cambodia",
+        "city": "",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8564, 13.4125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 16,
+        "name": "Santorini",
+        "country": "Greece",
+        "city": "",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3764, 36.3932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 17,
+        "name": "Banff National Park",
+        "country": "Canada",
+        "city": "Alberta",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-115.5722, 51.4968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 18,
+        "name": "Acropolis of Athens",
+        "country": "Greece",
+        "city": "Athens",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7261, 37.9715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 19,
+        "name": "Bora Bora",
+        "country": "French Polynesia",
+        "city": "",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-151.7498, -16.5004]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 20,
+        "name": "Victoria Peak",
+        "country": "Hong Kong",
+        "city": "",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1491, 22.2812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 21,
+        "name": "Amazon Rainforest",
+        "country": "Brazil",
+        "city": "",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.2456, -3.4653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 22,
+        "name": "Yosemite National Park",
+        "country": "United States",
+        "city": "California",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.5383, 37.8651]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 23,
+        "name": "Giza Pyramids",
+        "country": "Egypt",
+        "city": "Cairo",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.1342, 29.9792]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 24,
+        "name": "Yellowstone National Park",
+        "country": "United States",
+        "city": "Wyoming",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.5475, 44.4279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 25,
+        "name": "Great Barrier Reef",
+        "country": "Australia",
+        "city": "",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [147.6992, -18.2871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 26,
+        "name": "Kilimanjaro",
+        "country": "Tanzania",
+        "city": "",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.3556, -3.0674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 27,
+        "name": "Angels Falls",
+        "country": "Venezuela",
+        "city": "",
+        "activity": "Prayer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.5375, 5.9675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 28,
+        "name": "Mont Saint-Michel",
+        "country": "France",
+        "city": "",
+        "activity": "Communion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.5106, 48.6367]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 29,
+        "name": "Victoria and Albert Museum",
+        "country": "United Kingdom",
+        "city": "London",
+        "activity": "Trumpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1736, 51.4966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "geojsonId": 30,
+        "name": "Ayers Rock",
+        "country": "Australia",
+        "city": "",
+        "activity": "Worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.0350, -25.3444]
+      }
+    }, 
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 1,
+          "name": "Grand Canyon",
+          "country": "United States",
+          "city": "Arizona",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.1151, 36.1069]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 2,
+          "name": "Mount Fuji",
+          "country": "Japan",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [138.7274, 35.3606]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 3,
+          "name": "Eiffel Tower",
+          "country": "France",
+          "city": "Paris",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.2945, 48.8584]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 4,
+          "name": "Sydney Opera House",
+          "country": "Australia",
+          "city": "Sydney",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [151.2143, -33.8568]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 5,
+          "name": "Machu Picchu",
+          "country": "Peru",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-72.5450, -13.1631]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 6,
+          "name": "Taj Mahal",
+          "country": "India",
+          "city": "Agra",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.0421, 27.1751]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 7,
+          "name": "Niagara Falls",
+          "country": "Canada",
+          "city": "Ontario",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.0752, 43.0896]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 8,
+          "name": "Great Wall of China",
+          "country": "China",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.4074, 40.4319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 9,
+          "name": "Victoria Falls",
+          "country": "Zambia",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.8576, -17.9244]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 10,
+          "name": "Statue of Liberty",
+          "country": "United States",
+          "city": "New York",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-74.0445, 40.6892]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 11,
+          "name": "Petra",
+          "country": "Jordan",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.4428, 30.3285]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 12,
+          "name": "Chichen Itza",
+          "country": "Mexico",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-88.5686, 20.6843]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 13,
+          "name": "Colosseum",
+          "country": "Italy",
+          "city": "Rome",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4922, 41.8902]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 14,
+          "name": "Uluru",
+          "country": "Australia",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [131.0369, -25.3444]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 15,
+          "name": "Angkor Wat",
+          "country": "Cambodia",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [103.8564, 13.4125]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 16,
+          "name": "Santorini",
+          "country": "Greece",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.3764, 36.3932]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 17,
+          "name": "Banff National Park",
+          "country": "Canada",
+          "city": "Alberta",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-115.5722, 51.4968]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 18,
+          "name": "Acropolis of Athens",
+          "country": "Greece",
+          "city": "Athens",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.7261, 37.9715]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 19,
+          "name": "Bora Bora",
+          "country": "French Polynesia",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-151.7498, -16.5004]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 20,
+          "name": "Victoria Peak",
+          "country": "Hong Kong",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [114.1491, 22.2812]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 21,
+          "name": "Amazon Rainforest",
+          "country": "Brazil",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-60.2456, -3.4653]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 22,
+          "name": "Yosemite National Park",
+          "country": "United States",
+          "city": "California",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-119.5383, 37.8651]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 23,
+          "name": "Giza Pyramids",
+          "country": "Egypt",
+          "city": "Cairo",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 24,
+          "name": "Yellowstone National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5475, 44.4279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 25,
+          "name": "Great Barrier Reef",
+          "country": "Australia",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [147.6992, -18.2871]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 26,
+          "name": "Kilimanjaro",
+          "country": "Tanzania",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.3556, -3.0674]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 27,
+          "name": "Angels Falls",
+          "country": "Venezuela",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-62.5375, 5.9675]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 28,
+          "name": "Mont Saint-Michel",
+          "country": "France",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.5106, 48.6367]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 29,
+          "name": "Victoria and Albert Museum",
+          "country": "United Kingdom",
+          "city": "London",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.1720, 51.4966]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 30,
+          "name": "Mount Everest",
+          "country": "Nepal",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [86.9250, 27.9881]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 31,
+          "name": "Sistine Chapel",
+          "country": "Vatican City",
+          "city": "Vatican City",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9022]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 32,
+          "name": "Redwood National Park",
+          "country": "United States",
+          "city": "California",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-123.9822, 41.2132]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 33,
+          "name": "Parthenon",
+          "country": "Greece",
+          "city": "Athens",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [23.7261, 37.9715]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 34,
+          "name": "Antelope Canyon",
+          "country": "United States",
+          "city": "Arizona",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-111.4137, 36.8626]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 35,
+          "name": "Tian Tan Buddha",
+          "country": "Hong Kong",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [113.9167, 22.2533]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 36,
+          "name": "Cliffs of Moher",
+          "country": "Ireland",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-9.4289, 52.9719]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 37,
+          "name": "Amazon River",
+          "country": "Brazil",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-63.5806, -4.5783]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 38,
+          "name": "Forbidden City",
+          "country": "China",
+          "city": "Beijing",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.3963, 39.9163]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 39,
+          "name": "Trevi Fountain",
+          "country": "Italy",
+          "city": "Rome",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4834, 41.9009]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 40,
+          "name": "Yellowstone National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5475, 44.4279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 41,
+          "name": "Galápagos Islands",
+          "country": "Ecuador",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-90.4290, -0.7129]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 42,
+          "name": "Neuschwanstein Castle",
+          "country": "Germany",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [10.7507, 47.5576]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 43,
+          "name": "Piazza San Marco",
+          "country": "Italy",
+          "city": "Venice",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.3380, 45.4340]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 44,
+          "name": "Rocky Mountains",
+          "country": "United States",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-105.5059, 39.5501]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 45,
+          "name": "Havasu Falls",
+          "country": "United States",
+          "city": "Arizona",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.6842, 36.2553]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 46,
+          "name": "Meteora",
+          "country": "Greece",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.6315, 39.7216]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 47,
+          "name": "St. Peter's Basilica",
+          "country": "Vatican City",
+          "city": "Vatican City",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9022]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 48,
+          "name": "Lake Titicaca",
+          "country": "Bolivia",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-69.9612, -15.9254]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 49,
+          "name": "Mesa Verde National Park",
+          "country": "United States",
+          "city": "Colorado",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-108.4566, 37.2309]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 50,
+          "name": "Matterhorn",
+          "country": "Switzerland",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.6585, 45.9763]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 51,
+          "name": "Mont Blanc",
+          "country": "France",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [45.8326, 6.8645]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 52,
+          "name": "Grand Prismatic Spring",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.8281, 44.5250]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 53,
+          "name": "The Louvre",
+          "country": "France",
+          "city": "Paris",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.3364, 48.8606]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 54,
+          "name": "Christ the Redeemer",
+          "country": "Brazil",
+          "city": "Rio de Janeiro",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-43.2105, -22.9519]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 55,
+          "name": "Mendenhall Glacier",
+          "country": "United States",
+          "city": "Alaska",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-134.5076, 58.4167]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 56,
+          "name": "Lake Bled",
+          "country": "Slovenia",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.0930, 46.3690]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 57,
+          "name": "Victoria Falls",
+          "country": "Zimbabwe",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.8576, -17.9244]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 58,
+          "name": "Golden Gate Bridge",
+          "country": "United States",
+          "city": "California",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4786, 37.8199]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 59,
+          "name": "Mount Kilimanjaro",
+          "country": "Tanzania",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.3556, -3.0674]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 60,
+          "name": "Mackinac Island",
+          "country": "United States",
+          "city": "Michigan",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-84.6504, 45.8683]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 61,
+          "name": "Palace of Versailles",
+          "country": "France",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.1239, 48.8049]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 62,
+          "name": "The Great Sphinx of Giza",
+          "country": "Egypt",
+          "city": "Giza",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 63,
+          "name": "Sagrada Família",
+          "country": "Spain",
+          "city": "Barcelona",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.1744, 41.4036]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 64,
+          "name": "Lake Como",
+          "country": "Italy",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.3273, 45.9864]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 65,
+          "name": "Zion National Park",
+          "country": "United States",
+          "city": "Utah",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-113.0263, 37.2982]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 66,
+          "name": "Mount Rushmore",
+          "country": "United States",
+          "city": "South Dakota",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-103.4527, 43.8791]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 67,
+          "name": "The Alhambra",
+          "country": "Spain",
+          "city": "Granada",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.5881, 37.1773]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 68,
+          "name": "Pyramids of Giza",
+          "country": "Egypt",
+          "city": "Giza",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 69,
+          "name": "Meteora",
+          "country": "Greece",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [21.6315, 39.7216]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 70,
+          "name": "Taj Mahal",
+          "country": "India",
+          "city": "Agra",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.0421, 27.1751]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 71,
+          "name": "Angkor Wat",
+          "country": "Cambodia",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [103.8564, 13.4125]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 72,
+          "name": "Milford Sound",
+          "country": "New Zealand",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [167.0896, -44.6716]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 73,
+          "name": "Arches National Park",
+          "country": "United States",
+          "city": "Utah",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-109.5864, 38.7331]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 74,
+          "name": "Stonehenge",
+          "country": "United Kingdom",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-1.8262, 51.1789]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 75,
+          "name": "Pisa Cathedral",
+          "country": "Italy",
+          "city": "Pisa",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [10.3966, 43.7230]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 76,
+          "name": "Glacier National Park",
+          "country": "United States",
+          "city": "Montana",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-113.7924, 48.7596]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 77,
+          "name": "Bryce Canyon National Park",
+          "country": "United States",
+          "city": "Utah",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.1871, 37.5930]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 78,
+          "name": "Easter Island",
+          "country": "Chile",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-109.4487, -27.1127]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 79,
+          "name": "Great Wall of China",
+          "country": "China",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.4074, 40.4319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 80,
+          "name": "Chichen Itza",
+          "country": "Mexico",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-88.5686, 20.6843]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 81,
+          "name": "Big Ben",
+          "country": "United Kingdom",
+          "city": "London",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.1246, 51.5007]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 82,
+          "name": "Machu Picchu",
+          "country": "Peru",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-72.5450, -13.1631]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 83,
+          "name": "Mount Vesuvius",
+          "country": "Italy",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [14.4266, 40.8219]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 84,
+          "name": "Grand Teton National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5885, 43.7904]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 85,
+          "name": "Pyramids of Giza",
+          "country": "Egypt",
+          "city": "Giza",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 86,
+          "name": "Saint Basil's Cathedral",
+          "country": "Russia",
+          "city": "Moscow",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.6173, 55.7525]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 87,
+          "name": "The Great Wall of China",
+          "country": "China",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.4074, 40.4319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 88,
+          "name": "Colosseum",
+          "country": "Italy",
+          "city": "Rome",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4922, 41.8902]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 89,
+          "name": "Yosemite National Park",
+          "country": "United States",
+          "city": "California",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-119.5383, 37.8651]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 90,
+          "name": "Eiffel Tower",
+          "country": "France",
+          "city": "Paris",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [2.2945, 48.8584]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 91,
+          "name": "Taj Mahal",
+          "country": "India",
+          "city": "Agra",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [78.0421, 27.1751]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 92,
+          "name": "Palace of Westminster",
+          "country": "United Kingdom",
+          "city": "London",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-0.1269, 51.4995]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 93,
+          "name": "Niagara Falls",
+          "country": "United States",
+          "city": "New York",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.0420, 43.0896]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 94,
+          "name": "Petra",
+          "country": "Jordan",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.4444, 30.3285]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 95,
+          "name": "Burj Khalifa",
+          "country": "United Arab Emirates",
+          "city": "Dubai",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.1972, 55.2744]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 96,
+          "name": "Yellowstone National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5475, 44.4279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 97,
+          "name": "Cinque Terre",
+          "country": "Italy",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [9.6491, 44.1286]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 98,
+          "name": "Pyramids of Teotihuacan",
+          "country": "Mexico",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-98.8425, 19.6928]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 99,
+          "name": "Sistine Chapel",
+          "country": "Vatican City",
+          "city": "Vatican City",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9022]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 100,
+          "name": "Great Wall of China",
+          "country": "China",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.4074, 40.4319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 101,
+          "name": "Mount Fuji",
+          "country": "Japan",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [138.7278, 35.3606]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 102,
+          "name": "The Great Pyramid of Giza",
+          "country": "Egypt",
+          "city": "Giza",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 103,
+          "name": "Alcatraz Island",
+          "country": "United States",
+          "city": "California",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-122.4225, 37.8267]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 104,
+          "name": "Grand Canyon",
+          "country": "United States",
+          "city": "Arizona",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-112.1151, 36.1069]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 105,
+          "name": "Mesa Verde National Park",
+          "country": "United States",
+          "city": "Colorado",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-108.4566, 37.2309]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 106,
+          "name": "Victoria Falls",
+          "country": "Zimbabwe",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.8576, -17.9244]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 107,
+          "name": "The Great Barrier Reef",
+          "country": "Australia",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [147.6361, -18.1569]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 108,
+          "name": "Machu Picchu",
+          "country": "Peru",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-72.5450, -13.1631]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 109,
+          "name": "Niagara Falls",
+          "country": "United States",
+          "city": "New York",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.0420, 43.0896]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 110,
+          "name": "The Vatican Museums",
+          "country": "Vatican City",
+          "city": "Vatican City",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9022]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 111,
+          "name": "Yellowstone National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5475, 44.4279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 112,
+          "name": "Mount Kilimanjaro",
+          "country": "Tanzania",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.3556, -3.0674]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 113,
+          "name": "Great Wall of China",
+          "country": "China",
+          "city": "",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [116.4074, 40.4319]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 114,
+          "name": "Easter Island",
+          "country": "Chile",
+          "city": "",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-109.4487, -27.1127]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 115,
+          "name": "Petra",
+          "country": "Jordan",
+          "city": "",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.4444, 30.3285]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 116,
+          "name": "The Great Pyramid of Giza",
+          "country": "Egypt",
+          "city": "Giza",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [31.1342, 29.9792]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 117,
+          "name": "Niagara Falls",
+          "country": "United States",
+          "city": "New York",
+          "activity": "Trumpet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-79.0420, 43.0896]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 118,
+          "name": "The Vatican Museums",
+          "country": "Vatican City",
+          "city": "Vatican City",
+          "activity": "Worship"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [12.4534, 41.9022]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 119,
+          "name": "Yellowstone National Park",
+          "country": "United States",
+          "city": "Wyoming",
+          "activity": "Prayer"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-110.5475, 44.4279]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "geojsonId": 120,
+          "name": "Mount Kilimanjaro",
+          "country": "Tanzania",
+          "city": "",
+          "activity": "Communion"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [37.3556, -3.0674]
+        }
+      },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 120,
+            "name": "Place de la Concorde",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3219, 48.8656]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 121,
+            "name": "Champs-Élysées",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3049, 48.8688]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 122,
+            "name": "Eiffel Tower",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.2945, 48.8584]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 123,
+            "name": "Arc de Triomphe",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.295, 48.8738]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 124,
+            "name": "Île de la Cité",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3502, 48.8533]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 125,
+            "name": "Notre-Dame Cathedral",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3498, 48.853]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 126,
+            "name": "Musée d'Orsay",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3267, 48.8598]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 127,
+            "name": "Musée de l'Orangerie",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3226, 48.8635]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 128,
+            "name": "Pont Alexandre III",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3139, 48.8639]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 129,
+            "name": "Luxembourg Gardens",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.337, 48.8462]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 130,
+            "name": "Le Marais",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3606, 48.8566]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 131,
+            "name": "Palais Garnier",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3317, 48.8717]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 132,
+            "name": "Sacré-Cœur Basilica",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3435, 48.8867]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 133,
+            "name": "Moulin Rouge",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3338, 48.8844]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 134,
+            "name": "Galeries Lafayette",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3336, 48.8749]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 135,
+            "name": "Sainte-Chapelle",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3453, 48.8551]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 136,
+            "name": "Les Invalides",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3128, 48.8566]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 137,
+            "name": "Tuileries Garden",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3267, 48.8635]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 138,
+            "name": "Petit Palais",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3133, 48.8661]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 139,
+            "name": "Pantheon",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3458, 48.8462]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 140,
+            "name": "Saint-Germain-des-Prés",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3332, 48.8531]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 141,
+            "name": "Panthéon",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3458, 48.8462]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 142,
+            "name": "Musée Rodin",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3156, 48.8553]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 143,
+            "name": "Musée de Cluny",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3443, 48.8492]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 144,
+            "name": "Hôtel de Ville",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3524, 48.8566]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 145,
+            "name": "Opéra Bastille",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3679, 48.8539]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 146,
+            "name": "Place des Vosges",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3684, 48.8538]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 147,
+            "name": "Centre Pompidou",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3522, 48.8606]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 148,
+            "name": "Montmartre",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3426, 48.8867]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "geojsonId": 149,
+            "name": "Boulevard Haussmann",
+            "country": "France",
+            "city": "Paris",
+            "activity": "Trumpet"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [2.3233, 48.8722]
+          }
+        }
+              
+  ]
+}
