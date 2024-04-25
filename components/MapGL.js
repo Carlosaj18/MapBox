@@ -1,6 +1,7 @@
 import React from "react";
 import ReactMapGL, { Marker, Popup } from "react-map-gl";
 import useMapGL from "../hooks";
+import styles from "./styles.module.css";
 
 const MapGL = () => {
   const {
@@ -13,6 +14,25 @@ const MapGL = () => {
     handleMarkerClick,
     points,
   } = useMapGL();
+
+  const getMarkerClassName = (activity) => {
+    switch (activity) {
+      case "Trumpet":
+        return styles["visible-marker-trumpet"];
+      case "Worship":
+        return styles["visible-marker-worship"];
+      case "Prayer":
+        return styles["visible-marker-prayer"];
+      case "Communion":
+        return styles["visible-marker-communion"];
+      default:
+        return styles["visible-marker"];
+    }
+  };
+
+  const getClusterClassName = () => {
+    return styles["visible-marker-cluster"];
+  };
 
   return (
     <ReactMapGL
@@ -37,6 +57,7 @@ const MapGL = () => {
               key={`${cluster.properties?.geojsonId}-${cluster.properties?.name}-${idx}`}
               latitude={latitude}
               longitude={longitude}
+              className={getClusterClassName()}
               onClick={() => handleMarkerClick(cluster, viewPort, setViewport)}
             >
               <div
@@ -64,6 +85,7 @@ const MapGL = () => {
             key={`${cluster.properties?.geojsonId}-${cluster.properties?.name}-${idx}`}
             latitude={latitude}
             longitude={longitude}
+            className={getMarkerClassName(cluster.properties?.activity)}
           >
             <div
               style={{
